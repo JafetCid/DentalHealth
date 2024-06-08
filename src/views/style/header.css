@@ -1,0 +1,18 @@
+.header {
+    width: 100%;
+}
+
+.head {
+    width: 100%;
+    position: absolute;
+}
+
+.head-2 {
+    width: 100%;
+}
+
+@media (min-width: 320px) {
+    .head-2 {
+        margin-top: 3%;
+    }
+}
